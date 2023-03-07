@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "minus_00005",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "minus_",
+                "from": 5,
+                "to": 15
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

@@ -1,0 +1,740 @@
+{"frames": [
+
+{
+	"filename": "bonusGame/glow/Glow_00010.png",
+	"frame": {"x":457,"y":772,"w":224,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":12,"w":224,"h":195},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00011.png",
+	"frame": {"x":908,"y":1027,"w":221,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":221,"h":192},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00012.png",
+	"frame": {"x":1812,"y":1263,"w":214,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":15,"w":214,"h":188},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00013.png",
+	"frame": {"x":901,"y":1221,"w":202,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":18,"w":202,"h":183},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00014.png",
+	"frame": {"x":1619,"y":1278,"w":179,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":24,"w":179,"h":170},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00015.png",
+	"frame": {"x":1517,"y":1612,"w":131,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":38,"w":131,"h":141},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00016.png",
+	"frame": {"x":1,"y":1928,"w":91,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":52,"w":91,"h":112},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00017.png",
+	"frame": {"x":94,"y":1928,"w":50,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":74,"w":50,"h":71},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/glow/Glow_00018.png",
+	"frame": {"x":94,"y":2001,"w":19,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":97,"w":19,"h":29},
+	"sourceSize": {"w":227,"h":209}
+},
+{
+	"filename": "bonusGame/particular/Particular_00015.png",
+	"frame": {"x":1472,"y":1771,"w":123,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":8,"w":123,"h":162},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00016.png",
+	"frame": {"x":1325,"y":1771,"w":145,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":145,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00017.png",
+	"frame": {"x":1280,"y":1279,"w":154,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":154,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00018.png",
+	"frame": {"x":1185,"y":1453,"w":164,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":164,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00019.png",
+	"frame": {"x":1105,"y":1279,"w":173,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":173,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00020.png",
+	"frame": {"x":1150,"y":1626,"w":173,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":173,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00021.png",
+	"frame": {"x":969,"y":1843,"w":176,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":176,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00022.png",
+	"frame": {"x":1147,"y":1843,"w":176,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":176,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00023.png",
+	"frame": {"x":1007,"y":1453,"w":176,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":176,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00024.png",
+	"frame": {"x":825,"y":1497,"w":180,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":180,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00025.png",
+	"frame": {"x":595,"y":1860,"w":185,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":185,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00026.png",
+	"frame": {"x":968,"y":1670,"w":180,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":180,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00027.png",
+	"frame": {"x":783,"y":1670,"w":183,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00028.png",
+	"frame": {"x":595,"y":1687,"w":186,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00029.png",
+	"frame": {"x":639,"y":1497,"w":184,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00030.png",
+	"frame": {"x":782,"y":1860,"w":185,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":171},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00031.png",
+	"frame": {"x":1436,"y":1278,"w":181,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":181,"h":168},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00032.png",
+	"frame": {"x":1613,"y":1450,"w":170,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":11,"w":170,"h":160},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00033.png",
+	"frame": {"x":1436,"y":1448,"w":175,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":11,"w":175,"h":158},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00034.png",
+	"frame": {"x":1785,"y":1453,"w":164,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":9,"w":164,"h":157},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/particular/Particular_00035.png",
+	"frame": {"x":1351,"y":1608,"w":164,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":8,"w":164,"h":161},
+	"sourceSize": {"w":199,"h":171}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00000.png",
+	"frame": {"x":418,"y":1743,"w":175,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":20,"w":175,"h":193},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00001.png",
+	"frame": {"x":676,"y":1284,"w":193,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":193,"h":211},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00002.png",
+	"frame": {"x":446,"y":1477,"w":191,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":12,"w":191,"h":208},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00003.png",
+	"frame": {"x":229,"y":1535,"w":189,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":13,"w":189,"h":206},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00004.png",
+	"frame": {"x":229,"y":1743,"w":187,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":14,"w":187,"h":204},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00005.png",
+	"frame": {"x":229,"y":1535,"w":189,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":13,"w":189,"h":206},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00006.png",
+	"frame": {"x":446,"y":1477,"w":191,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":12,"w":191,"h":208},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00007.png",
+	"frame": {"x":676,"y":1284,"w":193,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":193,"h":211},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00008.png",
+	"frame": {"x":418,"y":1743,"w":175,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":20,"w":175,"h":193},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00009.png",
+	"frame": {"x":418,"y":1743,"w":175,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":20,"w":175,"h":193},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00010.png",
+	"frame": {"x":1828,"y":505,"w":215,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":20,"w":215,"h":247},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00011.png",
+	"frame": {"x":1828,"y":1,"w":219,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":20,"w":219,"h":250},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00012.png",
+	"frame": {"x":679,"y":1031,"w":220,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":20,"w":220,"h":251},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00013.png",
+	"frame": {"x":1366,"y":770,"w":221,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":221,"h":252},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00014.png",
+	"frame": {"x":1589,"y":770,"w":221,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":221,"h":252},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00015.png",
+	"frame": {"x":1812,"y":1009,"w":221,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":221,"h":252},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00016.png",
+	"frame": {"x":229,"y":776,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00017.png",
+	"frame": {"x":1141,"y":515,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00018.png",
+	"frame": {"x":1366,"y":515,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00019.png",
+	"frame": {"x":1591,"y":515,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00020.png",
+	"frame": {"x":1816,"y":754,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00021.png",
+	"frame": {"x":457,"y":258,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00022.png",
+	"frame": {"x":916,"y":1,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00023.png",
+	"frame": {"x":1144,"y":1,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00024.png",
+	"frame": {"x":1372,"y":1,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00025.png",
+	"frame": {"x":1600,"y":1,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00026.png",
+	"frame": {"x":916,"y":258,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00027.png",
+	"frame": {"x":685,"y":262,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00028.png",
+	"frame": {"x":457,"y":515,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00029.png",
+	"frame": {"x":229,"y":519,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00030.png",
+	"frame": {"x":1144,"y":258,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00031.png",
+	"frame": {"x":688,"y":1,"w":226,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":16,"w":226,"h":259},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00032.png",
+	"frame": {"x":1,"y":1386,"w":226,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":6,"w":226,"h":269},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00033.png",
+	"frame": {"x":1,"y":1,"w":226,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":226,"h":275},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00034.png",
+	"frame": {"x":1,"y":278,"w":226,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":226,"h":275},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00035.png",
+	"frame": {"x":1,"y":555,"w":226,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":226,"h":275},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00036.png",
+	"frame": {"x":1,"y":832,"w":226,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":226,"h":275},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00037.png",
+	"frame": {"x":1,"y":1109,"w":226,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":226,"h":275},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00038.png",
+	"frame": {"x":1,"y":1657,"w":226,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":6,"w":226,"h":269},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00039.png",
+	"frame": {"x":229,"y":258,"w":226,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":16,"w":226,"h":259},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00040.png",
+	"frame": {"x":229,"y":1,"w":228,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":228,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00041.png",
+	"frame": {"x":1372,"y":258,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00042.png",
+	"frame": {"x":1600,"y":258,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00043.png",
+	"frame": {"x":913,"y":515,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00044.png",
+	"frame": {"x":685,"y":519,"w":226,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":20,"w":226,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00045.png",
+	"frame": {"x":459,"y":1,"w":227,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":20,"w":227,"h":255},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00046.png",
+	"frame": {"x":1141,"y":770,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00047.png",
+	"frame": {"x":913,"y":772,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00048.png",
+	"frame": {"x":683,"y":776,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00049.png",
+	"frame": {"x":454,"y":969,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00050.png",
+	"frame": {"x":229,"y":1031,"w":223,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":253},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00051.png",
+	"frame": {"x":1366,"y":1024,"w":221,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":221,"h":252},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00052.png",
+	"frame": {"x":1589,"y":1024,"w":221,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":221,"h":252},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00053.png",
+	"frame": {"x":1138,"y":1025,"w":221,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":221,"h":252},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00054.png",
+	"frame": {"x":454,"y":1224,"w":220,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":20,"w":220,"h":251},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00055.png",
+	"frame": {"x":1828,"y":253,"w":219,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":20,"w":219,"h":250},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00056.png",
+	"frame": {"x":229,"y":1286,"w":215,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":20,"w":215,"h":247},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00057.png",
+	"frame": {"x":229,"y":1286,"w":215,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":20,"w":215,"h":247},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00058.png",
+	"frame": {"x":229,"y":1286,"w":215,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":20,"w":215,"h":247},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00059.png",
+	"frame": {"x":229,"y":1286,"w":215,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":20,"w":215,"h":247},
+	"sourceSize": {"w":305,"h":281}
+},
+{
+	"filename": "bonusGame/safeWin/Safe_00060.png",
+	"frame": {"x":229,"y":1286,"w":215,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":20,"w":215,"h":247},
+	"sourceSize": {"w":305,"h":281}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusGame-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.6",
+	"smartupdate": "$TexturePacker:SmartUpdate:f1d4bcf2d97b1a7acc5bd757790864a7:436f59e9f58761dcb6b119e69a3d7b68:70751953d0e05a7c758c587390bac286$"
+}
+}

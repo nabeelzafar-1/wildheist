@@ -1,0 +1,28 @@
+{
+    "defaultFrame": "win_Safe_00000",
+    "animations": {
+        "press": {
+            "duration": 500,
+            "frames": [
+                "win_Safe_00000", "win_Safe_00001", "win_Safe_00002", "win_Safe_00003", "win_Safe_00004" 
+            ]
+        },
+        "show": {
+            "duration": 2000,
+            "frames": [
+                "win_Safe_00005", "win_Safe_00006", "win_Safe_00007", "win_Safe_00008", "win_Safe_00009",
+                "win_Safe_00010", "win_Safe_00011", "win_Safe_00012", "win_Safe_00013", "win_Safe_00014",
+                "win_Safe_00015", "win_Safe_00016", "win_Safe_00017", "win_Safe_00018", "win_Safe_00019",
+                "win_Safe_00020", "win_Safe_00021", "win_Safe_00022", "win_Safe_00023", "win_Safe_00024",
+                "win_Safe_00025", "win_Safe_00026", "win_Safe_00027", "win_Safe_00028", "win_Safe_00029",
+                "win_Safe_00030", "win_Safe_00031", "win_Safe_00032", "win_Safe_00033", "win_Safe_00034",
+                "win_Safe_00035", "win_Safe_00036", "win_Safe_00037", "win_Safe_00038", "win_Safe_00039",
+                "win_Safe_00040", "win_Safe_00041", "win_Safe_00042", "win_Safe_00043", "win_Safe_00044",
+                "win_Safe_00045", "win_Safe_00046", "win_Safe_00047", "win_Safe_00048", "win_Safe_00049",
+                "win_Safe_00050", "win_Safe_00051", "win_Safe_00052", "win_Safe_00053", "win_Safe_00054",
+                "win_Safe_00055", "win_Safe_00056", "win_Safe_00057", "win_Safe_00058", "win_Safe_00055",
+                "win_Safe_00060"
+            ]
+        }
+    } 
+}

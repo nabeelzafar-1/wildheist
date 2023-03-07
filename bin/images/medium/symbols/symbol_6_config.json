@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "A_00000",
+    "animations": {
+        "win": {
+            "framesParams": {
+                "prefix": "A_",
+                "from": 0,
+                "to": 49
+            },
+            "duration": 1500,
+            "frames": []
+        }
+    } 
+}

@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "betPanel/auto.png",
+	"frame": {"x":244,"y":143,"w":75,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":68},
+	"sourceSize": {"w":75,"h":68}
+},
+{
+	"filename": "betPanel/betMinus.png",
+	"frame": {"x":1,"y":73,"w":80,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":116},
+	"sourceSize": {"w":80,"h":116}
+},
+{
+	"filename": "betPanel/betMinus_l.png",
+	"frame": {"x":1,"y":191,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":63},
+	"sourceSize": {"w":63,"h":63}
+},
+{
+	"filename": "betPanel/betPlus.png",
+	"frame": {"x":83,"y":73,"w":80,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":116},
+	"sourceSize": {"w":80,"h":116}
+},
+{
+	"filename": "betPanel/betPlus_l.png",
+	"frame": {"x":66,"y":191,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":63},
+	"sourceSize": {"w":63,"h":63}
+},
+{
+	"filename": "betPanel/bgBetNine.png",
+	"frame": {"x":165,"y":73,"w":51,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":93},
+	"sourceSize": {"w":51,"h":93}
+},
+{
+	"filename": "betPanel/bgBetNine_l.png",
+	"frame": {"x":378,"y":73,"w":50,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":68},
+	"sourceSize": {"w":50,"h":68}
+},
+{
+	"filename": "betPanel/clearAll.png",
+	"frame": {"x":218,"y":73,"w":81,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":68},
+	"sourceSize": {"w":81,"h":68}
+},
+{
+	"filename": "betPanel/maxBet_l.png",
+	"frame": {"x":321,"y":143,"w":72,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":68},
+	"sourceSize": {"w":72,"h":68}
+},
+{
+	"filename": "betPanel/paytable.png",
+	"frame": {"x":165,"y":168,"w":77,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":77,"h":70},
+	"sourceSize": {"w":80,"h":74}
+},
+{
+	"filename": "betPanel/stopAuto.png",
+	"frame": {"x":301,"y":73,"w":75,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":68},
+	"sourceSize": {"w":75,"h":68}
+},
+{
+	"filename": "betPanel/top_won_p_bg.png",
+	"frame": {"x":1,"y":1,"w":501,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":501,"h":70},
+	"sourceSize": {"w":504,"h":74}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "betPanel-0.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ee43c32f70e1dd5be47d376103f69e1:35bedeca7e83a7ca81a52bb8789d508f:9c8f16199df7ee3d11ba188fd112e2df$"
+}
+}

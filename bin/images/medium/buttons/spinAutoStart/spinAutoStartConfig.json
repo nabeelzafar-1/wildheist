@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "Spin_startAuto_00025",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "Spin_startAuto_",
+                "from": 25,
+                "to": 35
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

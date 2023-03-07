@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "plus_00010",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "plus_",
+                "from": 10,
+                "to": 20
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

@@ -1,0 +1,15 @@
+{
+    "defaultFrame": false,
+    "animations": {
+        "particles": {
+            "duration": 1000,
+            "frames": [
+                "Particular_00015", "Particular_00016", "Particular_00017", "Particular_00018", "Particular_00019",
+                "Particular_00020", "Particular_00021", "Particular_00022", "Particular_00023", "Particular_00024",
+                "Particular_00025", "Particular_00026", "Particular_00027", "Particular_00028", "Particular_00029",
+                "Particular_00030", "Particular_00031", "Particular_00032", "Particular_00033", "Particular_00034",
+                "Particular_00035"
+            ]
+        }
+    } 
+}

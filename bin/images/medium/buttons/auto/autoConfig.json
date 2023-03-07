@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "Auto_00020",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "Auto_",
+                "from": 20,
+                "to": 30
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

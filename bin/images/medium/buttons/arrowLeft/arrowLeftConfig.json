@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "arrowLeft_00035",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "arrowLeft_",
+                "from": 35,
+                "to": 45
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

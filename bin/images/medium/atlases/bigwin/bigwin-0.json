@@ -1,0 +1,2284 @@
+{"frames": [
+
+{
+	"filename": "Big_Win/Big_Win_00000.png",
+	"frame": {"x":1734,"y":132,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00001.png",
+	"frame": {"x":3962,"y":56,"w":84,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":65,"w":84,"h":25},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00002.png",
+	"frame": {"x":3895,"y":370,"w":167,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":54,"w":167,"h":48},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00003.png",
+	"frame": {"x":1067,"y":3750,"w":250,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":42,"w":250,"h":72},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00004.png",
+	"frame": {"x":392,"y":3754,"w":334,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":30,"w":334,"h":96},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00005.png",
+	"frame": {"x":2874,"y":2924,"w":424,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":17,"w":424,"h":123},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00006.png",
+	"frame": {"x":475,"y":3161,"w":447,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":14,"w":447,"h":128},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00007.png",
+	"frame": {"x":924,"y":3162,"w":430,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":16,"w":430,"h":124},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00008.png",
+	"frame": {"x":3604,"y":3267,"w":401,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":20,"w":401,"h":116},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00009.png",
+	"frame": {"x":3714,"y":895,"w":370,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":24,"w":370,"h":108},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00010.png",
+	"frame": {"x":3745,"y":793,"w":348,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":28,"w":348,"h":100},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00011.png",
+	"frame": {"x":2330,"y":3839,"w":356,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":26,"w":356,"h":104},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00012.png",
+	"frame": {"x":3717,"y":2927,"w":370,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":24,"w":370,"h":108},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00013.png",
+	"frame": {"x":1941,"y":3971,"w":384,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":23,"w":384,"h":111},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00014.png",
+	"frame": {"x":1241,"y":3513,"w":393,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":21,"w":393,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00015.png",
+	"frame": {"x":793,"y":3636,"w":391,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":22,"w":391,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00016.png",
+	"frame": {"x":1,"y":3743,"w":389,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":389,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00017.png",
+	"frame": {"x":1941,"y":3858,"w":387,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":23,"w":387,"h":111},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00018.png",
+	"frame": {"x":2327,"y":3971,"w":385,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":23,"w":385,"h":110},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00019.png",
+	"frame": {"x":1943,"y":3729,"w":385,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":23,"w":385,"h":110},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00020.png",
+	"frame": {"x":2330,"y":3727,"w":385,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":23,"w":385,"h":110},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00021.png",
+	"frame": {"x":780,"y":3945,"w":385,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":22,"w":385,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00022.png",
+	"frame": {"x":1167,"y":3945,"w":385,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":22,"w":385,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00023.png",
+	"frame": {"x":1169,"y":3824,"w":385,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":22,"w":385,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00024.png",
+	"frame": {"x":1554,"y":3938,"w":385,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":22,"w":385,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00025.png",
+	"frame": {"x":1556,"y":3744,"w":385,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":22,"w":385,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00026.png",
+	"frame": {"x":391,"y":3857,"w":387,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":22,"w":387,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00027.png",
+	"frame": {"x":1,"y":3857,"w":388,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":388,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00028.png",
+	"frame": {"x":3706,"y":3037,"w":389,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":389,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00029.png",
+	"frame": {"x":2553,"y":3516,"w":391,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":22,"w":391,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00030.png",
+	"frame": {"x":2121,"y":3612,"w":391,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":22,"w":391,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00031.png",
+	"frame": {"x":799,"y":3520,"w":393,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":21,"w":393,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00032.png",
+	"frame": {"x":398,"y":3523,"w":393,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":21,"w":393,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00033.png",
+	"frame": {"x":1,"y":3511,"w":395,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":21,"w":395,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00034.png",
+	"frame": {"x":401,"y":3407,"w":396,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":21,"w":396,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00035.png",
+	"frame": {"x":2160,"y":3380,"w":397,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":21,"w":397,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00036.png",
+	"frame": {"x":442,"y":3291,"w":398,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":21,"w":398,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00037.png",
+	"frame": {"x":3099,"y":3389,"w":400,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":21,"w":400,"h":115},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00038.png",
+	"frame": {"x":2696,"y":3284,"w":401,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":21,"w":401,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00039.png",
+	"frame": {"x":3178,"y":3272,"w":401,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":21,"w":401,"h":115},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00040.png",
+	"frame": {"x":3693,"y":1005,"w":402,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":21,"w":402,"h":115},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00041.png",
+	"frame": {"x":2368,"y":3145,"w":403,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":20,"w":403,"h":116},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00042.png",
+	"frame": {"x":3300,"y":3036,"w":404,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":20,"w":404,"h":116},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00043.png",
+	"frame": {"x":2793,"y":3049,"w":404,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":20,"w":404,"h":116},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00044.png",
+	"frame": {"x":1887,"y":3148,"w":403,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":20,"w":403,"h":116},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00045.png",
+	"frame": {"x":3199,"y":3154,"w":403,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":20,"w":403,"h":116},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00046.png",
+	"frame": {"x":2773,"y":3167,"w":403,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":20,"w":403,"h":115},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00047.png",
+	"frame": {"x":2292,"y":3263,"w":402,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":20,"w":402,"h":115},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00048.png",
+	"frame": {"x":3581,"y":3385,"w":401,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":21,"w":401,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00049.png",
+	"frame": {"x":1356,"y":3165,"w":400,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":21,"w":400,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00050.png",
+	"frame": {"x":1758,"y":3266,"w":400,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":21,"w":400,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00051.png",
+	"frame": {"x":1356,"y":3281,"w":399,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":21,"w":399,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00052.png",
+	"frame": {"x":924,"y":3288,"w":399,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":21,"w":399,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00053.png",
+	"frame": {"x":1,"y":3395,"w":398,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":21,"w":398,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00054.png",
+	"frame": {"x":1757,"y":3382,"w":397,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":21,"w":397,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00055.png",
+	"frame": {"x":1325,"y":3397,"w":397,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":21,"w":397,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00056.png",
+	"frame": {"x":842,"y":3404,"w":397,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":21,"w":397,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00057.png",
+	"frame": {"x":2559,"y":3400,"w":395,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":21,"w":395,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00058.png",
+	"frame": {"x":2156,"y":3496,"w":395,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":21,"w":395,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00059.png",
+	"frame": {"x":1724,"y":3498,"w":395,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":21,"w":395,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00060.png",
+	"frame": {"x":1,"y":3627,"w":393,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":21,"w":393,"h":114},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00061.png",
+	"frame": {"x":3501,"y":3501,"w":393,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":22,"w":393,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00062.png",
+	"frame": {"x":2956,"y":3506,"w":393,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":22,"w":393,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00063.png",
+	"frame": {"x":1636,"y":3614,"w":391,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":22,"w":391,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00064.png",
+	"frame": {"x":1194,"y":3629,"w":391,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":22,"w":391,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00065.png",
+	"frame": {"x":3706,"y":3152,"w":389,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":389,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00066.png",
+	"frame": {"x":396,"y":3639,"w":389,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":389,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00067.png",
+	"frame": {"x":1,"y":3972,"w":388,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":388,"h":113},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00068.png",
+	"frame": {"x":391,"y":3971,"w":387,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":22,"w":387,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00069.png",
+	"frame": {"x":780,"y":3831,"w":387,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":22,"w":387,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Big_Win/Big_Win_00070.png",
+	"frame": {"x":1556,"y":3744,"w":385,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":22,"w":385,"h":112},
+	"sourceSize": {"w":486,"h":157}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00000.png",
+	"frame": {"x":1734,"y":132,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00001.png",
+	"frame": {"x":3955,"y":247,"w":134,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":78,"w":134,"h":58},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00002.png",
+	"frame": {"x":3847,"y":493,"w":227,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":218,"y":70,"w":227,"h":74},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00003.png",
+	"frame": {"x":3770,"y":623,"w":321,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":168,"y":62,"w":321,"h":91},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00004.png",
+	"frame": {"x":3300,"y":2927,"w":415,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":54,"w":415,"h":107},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00005.png",
+	"frame": {"x":2635,"y":993,"w":516,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":45,"w":516,"h":126},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00006.png",
+	"frame": {"x":548,"y":257,"w":542,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":43,"w":542,"h":130},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00007.png",
+	"frame": {"x":2667,"y":745,"w":523,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":44,"w":523,"h":127},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00008.png",
+	"frame": {"x":1,"y":2087,"w":492,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":47,"w":492,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00009.png",
+	"frame": {"x":3634,"y":1235,"w":457,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":50,"w":457,"h":116},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00010.png",
+	"frame": {"x":3664,"y":1122,"w":431,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":52,"w":431,"h":111},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00011.png",
+	"frame": {"x":1,"y":3172,"w":442,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":51,"w":442,"h":113},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00012.png",
+	"frame": {"x":1428,"y":3047,"w":457,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":50,"w":457,"h":116},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00013.png",
+	"frame": {"x":476,"y":2938,"w":472,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":472,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00014.png",
+	"frame": {"x":1466,"y":2448,"w":482,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":48,"w":482,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00015.png",
+	"frame": {"x":2914,"y":2562,"w":480,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":49,"w":480,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00016.png",
+	"frame": {"x":970,"y":2691,"w":476,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":49,"w":476,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00017.png",
+	"frame": {"x":962,"y":2811,"w":474,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":49,"w":474,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00018.png",
+	"frame": {"x":1,"y":3053,"w":472,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":472,"h":117},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00019.png",
+	"frame": {"x":2400,"y":2804,"w":472,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":472,"h":117},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00020.png",
+	"frame": {"x":2400,"y":2923,"w":472,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":472,"h":117},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00021.png",
+	"frame": {"x":478,"y":2818,"w":473,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":473,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00022.png",
+	"frame": {"x":1,"y":2933,"w":473,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":473,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00023.png",
+	"frame": {"x":1925,"y":2804,"w":473,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":473,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00024.png",
+	"frame": {"x":1438,"y":2812,"w":473,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":473,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00025.png",
+	"frame": {"x":953,"y":2931,"w":473,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":473,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00026.png",
+	"frame": {"x":485,"y":2697,"w":475,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":48,"w":475,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00027.png",
+	"frame": {"x":2901,"y":2803,"w":477,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":48,"w":477,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00028.png",
+	"frame": {"x":3395,"y":2685,"w":478,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":48,"w":478,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00029.png",
+	"frame": {"x":3396,"y":2564,"w":479,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":48,"w":479,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00030.png",
+	"frame": {"x":1950,"y":2562,"w":480,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":48,"w":480,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00031.png",
+	"frame": {"x":1960,"y":2439,"w":482,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":47,"w":482,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00032.png",
+	"frame": {"x":975,"y":2569,"w":482,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":48,"w":482,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00033.png",
+	"frame": {"x":980,"y":2447,"w":484,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":48,"w":484,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00034.png",
+	"frame": {"x":3609,"y":1353,"w":486,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":48,"w":486,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00035.png",
+	"frame": {"x":3455,"y":2199,"w":487,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":48,"w":487,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00036.png",
+	"frame": {"x":2978,"y":2075,"w":488,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":47,"w":488,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00037.png",
+	"frame": {"x":1984,"y":2077,"w":489,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":47,"w":489,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00038.png",
+	"frame": {"x":1485,"y":2086,"w":489,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":47,"w":489,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00039.png",
+	"frame": {"x":992,"y":2084,"w":491,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":47,"w":491,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00040.png",
+	"frame": {"x":3525,"y":1717,"w":492,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":47,"w":492,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00041.png",
+	"frame": {"x":2006,"y":1835,"w":493,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":48,"w":493,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00042.png",
+	"frame": {"x":3030,"y":1708,"w":493,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":47,"w":493,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00043.png",
+	"frame": {"x":1001,"y":1839,"w":494,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":47,"w":494,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00044.png",
+	"frame": {"x":2517,"y":1726,"w":493,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":47,"w":493,"h":121},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00045.png",
+	"frame": {"x":1497,"y":1845,"w":493,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":48,"w":493,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00046.png",
+	"frame": {"x":995,"y":1962,"w":493,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":48,"w":493,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00047.png",
+	"frame": {"x":3012,"y":1831,"w":492,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":48,"w":492,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00048.png",
+	"frame": {"x":495,"y":2091,"w":491,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":48,"w":491,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00049.png",
+	"frame": {"x":2995,"y":1953,"w":490,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":48,"w":490,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00050.png",
+	"frame": {"x":988,"y":2207,"w":489,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":48,"w":489,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00051.png",
+	"frame": {"x":494,"y":2213,"w":489,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":48,"w":489,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00052.png",
+	"frame": {"x":2475,"y":2089,"w":488,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":48,"w":488,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00053.png",
+	"frame": {"x":2956,"y":2318,"w":487,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":48,"w":487,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00054.png",
+	"frame": {"x":2459,"y":2330,"w":487,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":48,"w":487,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00055.png",
+	"frame": {"x":3436,"y":2443,"w":486,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":48,"w":486,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00056.png",
+	"frame": {"x":3445,"y":2321,"w":486,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":48,"w":486,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00057.png",
+	"frame": {"x":2948,"y":2440,"w":486,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":48,"w":486,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00058.png",
+	"frame": {"x":489,"y":2453,"w":484,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":48,"w":484,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00059.png",
+	"frame": {"x":1,"y":2568,"w":483,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":48,"w":483,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00060.png",
+	"frame": {"x":486,"y":2575,"w":482,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":48,"w":482,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00061.png",
+	"frame": {"x":1,"y":2690,"w":482,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":48,"w":482,"h":120},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00062.png",
+	"frame": {"x":1459,"y":2570,"w":480,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":48,"w":480,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00063.png",
+	"frame": {"x":2432,"y":2562,"w":480,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":48,"w":480,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00064.png",
+	"frame": {"x":2914,"y":2682,"w":479,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":48,"w":479,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00065.png",
+	"frame": {"x":1941,"y":2683,"w":478,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":48,"w":478,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00066.png",
+	"frame": {"x":2421,"y":2683,"w":478,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":48,"w":478,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00067.png",
+	"frame": {"x":3380,"y":2806,"w":477,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":48,"w":477,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00068.png",
+	"frame": {"x":1,"y":2812,"w":475,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":48,"w":475,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00069.png",
+	"frame": {"x":1448,"y":2691,"w":475,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":48,"w":475,"h":119},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Huge_Win/Huge_Win_00070.png",
+	"frame": {"x":953,"y":2931,"w":473,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":49,"w":473,"h":118},
+	"sourceSize": {"w":633,"h":209}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00000.png",
+	"frame": {"x":1734,"y":132,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00001.png",
+	"frame": {"x":3962,"y":28,"w":106,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":70,"w":106,"h":26},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00002.png",
+	"frame": {"x":3877,"y":2564,"w":210,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":57,"w":210,"h":51},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00003.png",
+	"frame": {"x":3770,"y":716,"w":315,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":45,"w":315,"h":75},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00004.png",
+	"frame": {"x":2368,"y":3042,"w":423,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":32,"w":423,"h":101},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00005.png",
+	"frame": {"x":2238,"y":372,"w":536,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":18,"w":536,"h":128},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00006.png",
+	"frame": {"x":1761,"y":1,"w":564,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":14,"w":564,"h":135},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00007.png",
+	"frame": {"x":2874,"y":1,"w":543,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":16,"w":543,"h":131},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00008.png",
+	"frame": {"x":1,"y":1355,"w":509,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":21,"w":509,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00009.png",
+	"frame": {"x":1913,"y":2924,"w":468,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":25,"w":468,"h":113},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00010.png",
+	"frame": {"x":1,"y":3287,"w":439,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":29,"w":439,"h":106},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00011.png",
+	"frame": {"x":950,"y":3051,"w":451,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":28,"w":451,"h":109},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00012.png",
+	"frame": {"x":1428,"y":2932,"w":468,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":25,"w":468,"h":113},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00013.png",
+	"frame": {"x":1473,"y":2329,"w":485,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":23,"w":485,"h":117},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00014.png",
+	"frame": {"x":1010,"y":1717,"w":497,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":22,"w":497,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00015.png",
+	"frame": {"x":1,"y":1967,"w":494,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":23,"w":494,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00016.png",
+	"frame": {"x":1490,"y":1967,"w":492,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":492,"h":117},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00017.png",
+	"frame": {"x":3487,"y":1960,"w":489,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":23,"w":489,"h":117},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00018.png",
+	"frame": {"x":985,"y":2329,"w":486,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":24,"w":486,"h":116},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00019.png",
+	"frame": {"x":492,"y":2335,"w":486,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":24,"w":486,"h":116},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00020.png",
+	"frame": {"x":1,"y":2450,"w":486,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":24,"w":486,"h":116},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00021.png",
+	"frame": {"x":2466,"y":2211,"w":488,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":117},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00022.png",
+	"frame": {"x":1969,"y":2320,"w":488,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":117},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00023.png",
+	"frame": {"x":1976,"y":2200,"w":488,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00024.png",
+	"frame": {"x":1479,"y":2209,"w":488,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00025.png",
+	"frame": {"x":3468,"y":2079,"w":488,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00026.png",
+	"frame": {"x":1,"y":2330,"w":489,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":23,"w":489,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00027.png",
+	"frame": {"x":1,"y":2210,"w":491,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":491,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00028.png",
+	"frame": {"x":2501,"y":1849,"w":492,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":492,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00029.png",
+	"frame": {"x":499,"y":1850,"w":494,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":22,"w":494,"h":119},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00030.png",
+	"frame": {"x":2020,"y":1713,"w":495,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":22,"w":495,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00031.png",
+	"frame": {"x":1,"y":1845,"w":496,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":22,"w":496,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00032.png",
+	"frame": {"x":1520,"y":1603,"w":498,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":22,"w":498,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00033.png",
+	"frame": {"x":1,"y":1723,"w":499,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":22,"w":499,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00034.png",
+	"frame": {"x":1528,"y":1481,"w":501,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":22,"w":501,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00035.png",
+	"frame": {"x":3104,"y":1342,"w":503,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":22,"w":503,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00036.png",
+	"frame": {"x":1543,"y":1358,"w":505,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":21,"w":505,"h":121},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00037.png",
+	"frame": {"x":2067,"y":1352,"w":505,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":21,"w":505,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00038.png",
+	"frame": {"x":3126,"y":1219,"w":506,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":21,"w":506,"h":121},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00039.png",
+	"frame": {"x":512,"y":1361,"w":507,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":21,"w":507,"h":121},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00040.png",
+	"frame": {"x":2085,"y":1229,"w":509,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":21,"w":509,"h":121},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00041.png",
+	"frame": {"x":3153,"y":1095,"w":509,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":21,"w":509,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00042.png",
+	"frame": {"x":1045,"y":1226,"w":510,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":21,"w":510,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00043.png",
+	"frame": {"x":2102,"y":1105,"w":511,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":21,"w":511,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00044.png",
+	"frame": {"x":1572,"y":1111,"w":511,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":21,"w":511,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00045.png",
+	"frame": {"x":521,"y":1237,"w":510,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":21,"w":510,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00046.png",
+	"frame": {"x":2615,"y":1121,"w":509,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":21,"w":509,"h":122},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00047.png",
+	"frame": {"x":1557,"y":1235,"w":508,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":21,"w":508,"h":121},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00048.png",
+	"frame": {"x":1033,"y":1350,"w":508,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":21,"w":508,"h":121},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00049.png",
+	"frame": {"x":1,"y":1479,"w":507,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":22,"w":507,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00050.png",
+	"frame": {"x":2596,"y":1245,"w":506,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":22,"w":506,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00051.png",
+	"frame": {"x":1021,"y":1473,"w":505,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":22,"w":505,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00052.png",
+	"frame": {"x":510,"y":1484,"w":505,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":22,"w":505,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00053.png",
+	"frame": {"x":1,"y":1601,"w":504,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":22,"w":504,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00054.png",
+	"frame": {"x":2574,"y":1367,"w":503,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":22,"w":503,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00055.png",
+	"frame": {"x":1017,"y":1595,"w":501,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":22,"w":501,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00056.png",
+	"frame": {"x":2050,"y":1476,"w":502,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":22,"w":502,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00057.png",
+	"frame": {"x":507,"y":1606,"w":501,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":22,"w":501,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00058.png",
+	"frame": {"x":3079,"y":1464,"w":499,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":22,"w":499,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00059.png",
+	"frame": {"x":3580,"y":1475,"w":499,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":22,"w":499,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00060.png",
+	"frame": {"x":502,"y":1728,"w":497,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":22,"w":497,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00061.png",
+	"frame": {"x":3055,"y":1586,"w":496,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":22,"w":496,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00062.png",
+	"frame": {"x":2532,"y":1604,"w":496,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":22,"w":496,"h":120},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00063.png",
+	"frame": {"x":1509,"y":1725,"w":495,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":23,"w":495,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00064.png",
+	"frame": {"x":3553,"y":1597,"w":494,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":23,"w":494,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00065.png",
+	"frame": {"x":497,"y":1971,"w":493,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":23,"w":493,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00066.png",
+	"frame": {"x":1992,"y":1957,"w":492,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":492,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00067.png",
+	"frame": {"x":3506,"y":1840,"w":491,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":491,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00068.png",
+	"frame": {"x":2486,"y":1969,"w":490,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":23,"w":490,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00069.png",
+	"frame": {"x":2965,"y":2198,"w":488,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Mega_Win/Mega_Win_00070.png",
+	"frame": {"x":3468,"y":2079,"w":488,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":488,"h":118},
+	"sourceSize": {"w":579,"h":158}
+},
+{
+	"filename": "Super_Win/Super_Win_00000.png",
+	"frame": {"x":1734,"y":132,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00001.png",
+	"frame": {"x":3962,"y":1,"w":113,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":76,"w":113,"h":25},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00002.png",
+	"frame": {"x":3847,"y":569,"w":224,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":217,"y":62,"w":224,"h":52},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00003.png",
+	"frame": {"x":728,"y":3754,"w":337,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":158,"y":50,"w":337,"h":75},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00004.png",
+	"frame": {"x":475,"y":3058,"w":451,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":36,"w":451,"h":101},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00005.png",
+	"frame": {"x":1187,"y":1,"w":572,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":22,"w":572,"h":129},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00006.png",
+	"frame": {"x":1,"y":1,"w":602,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":18,"w":602,"h":136},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00007.png",
+	"frame": {"x":605,"y":1,"w":580,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":21,"w":580,"h":131},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00008.png",
+	"frame": {"x":1,"y":262,"w":542,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":25,"w":542,"h":123},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00009.png",
+	"frame": {"x":2554,"y":1489,"w":499,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":30,"w":499,"h":113},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00010.png",
+	"frame": {"x":1898,"y":3039,"w":468,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":33,"w":468,"h":107},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00011.png",
+	"frame": {"x":2444,"y":2451,"w":482,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":32,"w":482,"h":109},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00012.png",
+	"frame": {"x":2031,"y":1598,"w":499,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":30,"w":499,"h":113},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00013.png",
+	"frame": {"x":1,"y":1236,"w":518,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":28,"w":518,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00014.png",
+	"frame": {"x":1,"y":755,"w":530,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":26,"w":530,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00015.png",
+	"frame": {"x":533,"y":757,"w":528,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":27,"w":528,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00016.png",
+	"frame": {"x":1,"y":998,"w":524,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":28,"w":524,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00017.png",
+	"frame": {"x":527,"y":999,"w":521,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":28,"w":521,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00018.png",
+	"frame": {"x":3173,"y":976,"w":518,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":28,"w":518,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00019.png",
+	"frame": {"x":1,"y":1117,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00020.png",
+	"frame": {"x":3192,"y":857,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00021.png",
+	"frame": {"x":2651,"y":874,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00022.png",
+	"frame": {"x":2113,"y":986,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00023.png",
+	"frame": {"x":1580,"y":992,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00024.png",
+	"frame": {"x":1050,"y":1107,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00025.png",
+	"frame": {"x":523,"y":1118,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00026.png",
+	"frame": {"x":2127,"y":866,"w":522,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":27,"w":522,"h":118},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00027.png",
+	"frame": {"x":2141,"y":745,"w":524,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":27,"w":524,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00028.png",
+	"frame": {"x":1601,"y":751,"w":524,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":27,"w":524,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00029.png",
+	"frame": {"x":1,"y":877,"w":527,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":27,"w":527,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00030.png",
+	"frame": {"x":1611,"y":629,"w":528,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":26,"w":528,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00031.png",
+	"frame": {"x":2706,"y":502,"w":530,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":26,"w":530,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00032.png",
+	"frame": {"x":1078,"y":623,"w":531,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":26,"w":531,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00033.png",
+	"frame": {"x":3312,"y":493,"w":533,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":26,"w":533,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00034.png",
+	"frame": {"x":3359,"y":370,"w":534,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":26,"w":534,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00035.png",
+	"frame": {"x":1633,"y":384,"w":536,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":26,"w":536,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00036.png",
+	"frame": {"x":1,"y":510,"w":538,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":26,"w":538,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00037.png",
+	"frame": {"x":2279,"y":248,"w":539,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":25,"w":539,"h":122},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00038.png",
+	"frame": {"x":1697,"y":261,"w":539,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":26,"w":539,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00039.png",
+	"frame": {"x":3419,"y":1,"w":541,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":26,"w":541,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00040.png",
+	"frame": {"x":2327,"y":124,"w":543,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":25,"w":543,"h":122},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00041.png",
+	"frame": {"x":1734,"y":138,"w":543,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":26,"w":543,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00042.png",
+	"frame": {"x":1187,"y":132,"w":545,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":26,"w":545,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00043.png",
+	"frame": {"x":605,"y":134,"w":545,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":26,"w":545,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00044.png",
+	"frame": {"x":1,"y":139,"w":545,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":26,"w":545,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00045.png",
+	"frame": {"x":2327,"y":1,"w":545,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":26,"w":545,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00046.png",
+	"frame": {"x":1152,"y":255,"w":543,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":26,"w":543,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00047.png",
+	"frame": {"x":1,"y":387,"w":542,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":26,"w":542,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00048.png",
+	"frame": {"x":3419,"y":124,"w":541,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":26,"w":541,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00049.png",
+	"frame": {"x":2872,"y":134,"w":541,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":26,"w":541,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00050.png",
+	"frame": {"x":1092,"y":378,"w":539,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":26,"w":539,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00051.png",
+	"frame": {"x":545,"y":389,"w":539,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":26,"w":539,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00052.png",
+	"frame": {"x":3415,"y":247,"w":538,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":26,"w":538,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00053.png",
+	"frame": {"x":2820,"y":257,"w":537,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":26,"w":537,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00054.png",
+	"frame": {"x":1086,"y":501,"w":536,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":26,"w":536,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00055.png",
+	"frame": {"x":1,"y":633,"w":535,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":26,"w":535,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00056.png",
+	"frame": {"x":541,"y":512,"w":535,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":26,"w":535,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00057.png",
+	"frame": {"x":2776,"y":379,"w":534,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":26,"w":534,"h":121},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00058.png",
+	"frame": {"x":2171,"y":502,"w":533,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":26,"w":533,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00059.png",
+	"frame": {"x":1624,"y":507,"w":532,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":26,"w":532,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00060.png",
+	"frame": {"x":538,"y":635,"w":531,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":26,"w":531,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00061.png",
+	"frame": {"x":3238,"y":615,"w":530,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":27,"w":530,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00062.png",
+	"frame": {"x":2158,"y":624,"w":529,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":27,"w":529,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00063.png",
+	"frame": {"x":1071,"y":745,"w":528,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":26,"w":528,"h":120},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00064.png",
+	"frame": {"x":2689,"y":624,"w":527,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":27,"w":527,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00065.png",
+	"frame": {"x":3218,"y":736,"w":525,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":27,"w":525,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00066.png",
+	"frame": {"x":1063,"y":867,"w":524,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":27,"w":524,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00067.png",
+	"frame": {"x":530,"y":878,"w":524,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":27,"w":524,"h":119},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00068.png",
+	"frame": {"x":1589,"y":872,"w":522,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":27,"w":522,"h":118},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00069.png",
+	"frame": {"x":1056,"y":988,"w":522,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":28,"w":522,"h":117},
+	"sourceSize": {"w":633,"h":177}
+},
+{
+	"filename": "Super_Win/Super_Win_00070.png",
+	"frame": {"x":523,"y":1118,"w":520,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":28,"w":520,"h":117},
+	"sourceSize": {"w":633,"h":177}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bigwin-0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "0.58",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ff48123b6338a636fa99ab5a89aeef5:b9a8c86d5fb6d05db3b447556b0b6d63:24b26cad1ba1a35a4e5a28fb4e3451dd$"
+}
+}

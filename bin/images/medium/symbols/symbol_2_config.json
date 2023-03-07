@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "Cat_Red_headed_00000",
+    "animations": {
+        "win": {
+            "framesParams": {
+                "prefix": "Cat_Red_headed_",
+                "from": 0,
+                "to": 49
+            },
+            "duration": 1500,
+            "frames": []
+        }
+    } 
+}

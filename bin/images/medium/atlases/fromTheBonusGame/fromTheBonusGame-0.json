@@ -1,0 +1,580 @@
+{"frames": [
+
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00000.png",
+	"frame": {"x":4089,"y":1,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00001.png",
+	"frame": {"x":3746,"y":228,"w":174,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":240,"w":174,"h":173},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00002.png",
+	"frame": {"x":3746,"y":1,"w":341,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":197,"w":341,"h":225},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00003.png",
+	"frame": {"x":3514,"y":3467,"w":462,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":129,"w":462,"h":303},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00004.png",
+	"frame": {"x":2517,"y":3487,"w":476,"h":381},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":60,"w":476,"h":381},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00005.png",
+	"frame": {"x":1137,"y":1,"w":550,"h":447},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":10,"w":550,"h":447},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00006.png",
+	"frame": {"x":1,"y":1,"w":573,"h":465},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":573,"h":465},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00007.png",
+	"frame": {"x":576,"y":1,"w":559,"h":456},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":5,"w":559,"h":456},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00008.png",
+	"frame": {"x":1689,"y":1,"w":521,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":7,"w":521,"h":446},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00009.png",
+	"frame": {"x":3031,"y":3466,"w":481,"h":411},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":33,"w":481,"h":411},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00010.png",
+	"frame": {"x":3638,"y":1740,"w":450,"h":392},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":51,"w":450,"h":392},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00011.png",
+	"frame": {"x":3542,"y":3038,"w":463,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":14,"w":463,"h":427},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00012.png",
+	"frame": {"x":1510,"y":3490,"w":482,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":7,"w":482,"h":438},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00013.png",
+	"frame": {"x":2726,"y":440,"w":499,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":7,"w":499,"h":442},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00014.png",
+	"frame": {"x":2212,"y":1,"w":512,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":11,"w":512,"h":441},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00015.png",
+	"frame": {"x":2726,"y":1,"w":509,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":14,"w":509,"h":437},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00016.png",
+	"frame": {"x":3237,"y":1,"w":507,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":15,"w":507,"h":436},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00017.png",
+	"frame": {"x":1,"y":1340,"w":504,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":16,"w":504,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00018.png",
+	"frame": {"x":3039,"y":3032,"w":501,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":17,"w":501,"h":432},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00019.png",
+	"frame": {"x":2528,"y":3053,"w":501,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":17,"w":501,"h":432},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00020.png",
+	"frame": {"x":1,"y":2647,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":15,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00021.png",
+	"frame": {"x":1008,"y":3046,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":15,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00022.png",
+	"frame": {"x":504,"y":3069,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":14,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00023.png",
+	"frame": {"x":507,"y":2198,"w":501,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":13,"w":501,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00024.png",
+	"frame": {"x":1,"y":3082,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":13,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00025.png",
+	"frame": {"x":2536,"y":2618,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":12,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00026.png",
+	"frame": {"x":1511,"y":3055,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":11,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00027.png",
+	"frame": {"x":1,"y":2211,"w":501,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":10,"w":501,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00028.png",
+	"frame": {"x":1010,"y":2610,"w":501,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":10,"w":501,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00029.png",
+	"frame": {"x":3216,"y":1303,"w":501,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":9,"w":501,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00030.png",
+	"frame": {"x":2624,"y":1314,"w":501,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":9,"w":501,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00031.png",
+	"frame": {"x":2033,"y":1746,"w":501,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":9,"w":501,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00032.png",
+	"frame": {"x":1525,"y":1754,"w":501,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":9,"w":501,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00033.png",
+	"frame": {"x":1529,"y":1317,"w":502,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":9,"w":502,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00034.png",
+	"frame": {"x":1013,"y":2173,"w":501,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":9,"w":501,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00035.png",
+	"frame": {"x":508,"y":1326,"w":503,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":9,"w":503,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00036.png",
+	"frame": {"x":1689,"y":449,"w":505,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":9,"w":505,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00037.png",
+	"frame": {"x":2196,"y":876,"w":505,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":9,"w":505,"h":435},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00038.png",
+	"frame": {"x":1,"y":468,"w":505,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":10,"w":505,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00039.png",
+	"frame": {"x":508,"y":890,"w":505,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":10,"w":505,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00040.png",
+	"frame": {"x":1,"y":904,"w":505,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":10,"w":505,"h":434},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00041.png",
+	"frame": {"x":507,"y":1763,"w":504,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":11,"w":504,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00042.png",
+	"frame": {"x":1,"y":1776,"w":504,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":11,"w":504,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00043.png",
+	"frame": {"x":1513,"y":2622,"w":504,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":13,"w":504,"h":431},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00044.png",
+	"frame": {"x":3553,"y":2170,"w":504,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":13,"w":504,"h":431},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00045.png",
+	"frame": {"x":3041,"y":2600,"w":505,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":14,"w":505,"h":430},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00046.png",
+	"frame": {"x":2028,"y":2183,"w":506,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":14,"w":506,"h":430},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00047.png",
+	"frame": {"x":1516,"y":2191,"w":507,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":15,"w":507,"h":429},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00048.png",
+	"frame": {"x":2019,"y":3044,"w":507,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":16,"w":507,"h":428},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00049.png",
+	"frame": {"x":3043,"y":2170,"w":508,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":17,"w":508,"h":428},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00050.png",
+	"frame": {"x":2025,"y":2615,"w":509,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":18,"w":509,"h":427},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00051.png",
+	"frame": {"x":3127,"y":1740,"w":509,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":18,"w":509,"h":428},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00052.png",
+	"frame": {"x":1013,"y":1743,"w":510,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":19,"w":510,"h":428},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00053.png",
+	"frame": {"x":2703,"y":884,"w":511,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":19,"w":511,"h":428},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00054.png",
+	"frame": {"x":1602,"y":886,"w":511,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":19,"w":511,"h":429},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00055.png",
+	"frame": {"x":1015,"y":1313,"w":512,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":20,"w":512,"h":428},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00056.png",
+	"frame": {"x":1137,"y":450,"w":512,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":20,"w":512,"h":429},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00057.png",
+	"frame": {"x":576,"y":459,"w":512,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":20,"w":512,"h":429},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00058.png",
+	"frame": {"x":3237,"y":439,"w":513,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":19,"w":513,"h":430},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00059.png",
+	"frame": {"x":2212,"y":444,"w":512,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":19,"w":512,"h":430},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00060.png",
+	"frame": {"x":1090,"y":881,"w":510,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":19,"w":510,"h":430},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00061.png",
+	"frame": {"x":3227,"y":871,"w":509,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":509,"h":430},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00062.png",
+	"frame": {"x":2115,"y":1313,"w":507,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":18,"w":507,"h":431},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00063.png",
+	"frame": {"x":2536,"y":1751,"w":505,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":18,"w":505,"h":431},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00064.png",
+	"frame": {"x":2536,"y":2184,"w":503,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":503,"h":432},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00065.png",
+	"frame": {"x":2014,"y":3474,"w":501,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":17,"w":501,"h":432},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00066.png",
+	"frame": {"x":1007,"y":3481,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":15,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00067.png",
+	"frame": {"x":504,"y":2634,"w":502,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":15,"w":502,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00068.png",
+	"frame": {"x":504,"y":3504,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":14,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00069.png",
+	"frame": {"x":1,"y":3517,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":14,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+},
+{
+	"filename": "From_The_Bonus_Game/From_The_Bonus_Game_00070.png",
+	"frame": {"x":3548,"y":2603,"w":501,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":13,"w":501,"h":433},
+	"sourceSize": {"w":584,"h":470}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fromTheBonusGame-0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "0.57",
+	"smartupdate": "$TexturePacker:SmartUpdate:be65124d9785049ecbf3786c7374996e:c02755abfbacbd8b9932b3dca7c81da5:0fbbc3d1e9e3a65678f258876f7a5244$"
+}
+}

@@ -1,0 +1,14 @@
+{
+    "defaultFrame": false,
+    "animations": {
+        "particles": {
+            "framesParams": {
+                "prefix": "Particular_Wild_",
+                "from": 0,
+                "to": 24
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

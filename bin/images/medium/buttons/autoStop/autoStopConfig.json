@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "Auto_Stop_00020",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "Auto_Stop_",
+                "from": 20,
+                "to": 30
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

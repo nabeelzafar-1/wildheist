@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "Spin_00025",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "Spin_",
+                "from": 25,
+                "to": 35
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

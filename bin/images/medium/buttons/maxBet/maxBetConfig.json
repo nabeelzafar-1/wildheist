@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "MaxBet_00015",
+    "animations": {
+        "press": {
+            "framesParams": {
+                "prefix": "MaxBet_",
+                "from": 15,
+                "to": 25
+            },
+            "duration": 500,
+            "frames": []
+        }
+    } 
+}

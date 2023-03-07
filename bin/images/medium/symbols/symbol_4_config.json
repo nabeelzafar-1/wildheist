@@ -1,0 +1,14 @@
+{
+    "defaultFrame": "J_00000",
+    "animations": {
+        "win": {
+            "framesParams": {
+                "prefix": "J_",
+                "from": 0,
+                "to": 49
+            },
+            "duration": 1500,
+            "frames": []
+        }
+    } 
+}

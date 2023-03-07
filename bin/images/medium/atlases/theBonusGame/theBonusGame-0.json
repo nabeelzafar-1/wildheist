@@ -1,0 +1,580 @@
+{"frames": [
+
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00000.png",
+	"frame": {"x":1037,"y":1784,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00001.png",
+	"frame": {"x":3737,"y":232,"w":176,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":242,"w":176,"h":177},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00002.png",
+	"frame": {"x":3737,"y":1,"w":347,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":200,"w":347,"h":229},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00003.png",
+	"frame": {"x":3595,"y":2628,"w":471,"h":308},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":131,"w":471,"h":308},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00004.png",
+	"frame": {"x":3593,"y":2938,"w":463,"h":387},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":61,"w":463,"h":387},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00005.png",
+	"frame": {"x":586,"y":1,"w":561,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":10,"w":561,"h":455},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00006.png",
+	"frame": {"x":1,"y":1,"w":583,"h":473},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":583,"h":473},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00007.png",
+	"frame": {"x":1,"y":476,"w":570,"h":463},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":5,"w":570,"h":463},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00008.png",
+	"frame": {"x":1,"y":941,"w":532,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":7,"w":532,"h":454},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00009.png",
+	"frame": {"x":3597,"y":2207,"w":490,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":33,"w":490,"h":419},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00010.png",
+	"frame": {"x":3592,"y":3327,"w":459,"h":398},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":52,"w":459,"h":398},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00011.png",
+	"frame": {"x":3597,"y":1772,"w":472,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":433},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00012.png",
+	"frame": {"x":1050,"y":1342,"w":491,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":7,"w":491,"h":445},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00013.png",
+	"frame": {"x":1,"y":2289,"w":508,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":8,"w":508,"h":448},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00014.png",
+	"frame": {"x":1149,"y":1,"w":521,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":11,"w":521,"h":448},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00015.png",
+	"frame": {"x":1,"y":1397,"w":519,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":13,"w":519,"h":446},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00016.png",
+	"frame": {"x":1672,"y":1,"w":515,"h":443},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":15,"w":515,"h":443},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00017.png",
+	"frame": {"x":3222,"y":1,"w":513,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":16,"w":513,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00018.png",
+	"frame": {"x":2705,"y":444,"w":510,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":17,"w":510,"h":439},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00019.png",
+	"frame": {"x":3217,"y":445,"w":510,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":510,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00020.png",
+	"frame": {"x":2186,"y":884,"w":510,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":510,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00021.png",
+	"frame": {"x":2698,"y":885,"w":510,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":15,"w":510,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00022.png",
+	"frame": {"x":3210,"y":887,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":14,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00023.png",
+	"frame": {"x":1663,"y":886,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":13,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00024.png",
+	"frame": {"x":1,"y":2739,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":12,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00025.png",
+	"frame": {"x":2175,"y":1326,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":12,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00026.png",
+	"frame": {"x":2687,"y":1327,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":11,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00027.png",
+	"frame": {"x":3199,"y":1330,"w":510,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":11,"w":510,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00028.png",
+	"frame": {"x":1037,"y":1789,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":10,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00029.png",
+	"frame": {"x":1,"y":3183,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00030.png",
+	"frame": {"x":1,"y":3627,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00031.png",
+	"frame": {"x":513,"y":2669,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00032.png",
+	"frame": {"x":513,"y":3113,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00033.png",
+	"frame": {"x":513,"y":3557,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00034.png",
+	"frame": {"x":1032,"y":2232,"w":510,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":510,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00035.png",
+	"frame": {"x":518,"y":2225,"w":512,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":9,"w":512,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00036.png",
+	"frame": {"x":2189,"y":1,"w":514,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":9,"w":514,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00037.png",
+	"frame": {"x":1,"y":1845,"w":515,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":9,"w":515,"h":442},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00038.png",
+	"frame": {"x":2705,"y":1,"w":515,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":10,"w":515,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00039.png",
+	"frame": {"x":586,"y":458,"w":514,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":11,"w":514,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00040.png",
+	"frame": {"x":573,"y":900,"w":514,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":11,"w":514,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00041.png",
+	"frame": {"x":535,"y":1342,"w":513,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":11,"w":513,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00042.png",
+	"frame": {"x":522,"y":1784,"w":513,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":12,"w":513,"h":439},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00043.png",
+	"frame": {"x":1149,"y":451,"w":512,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":512,"h":438},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00044.png",
+	"frame": {"x":1672,"y":446,"w":512,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":512,"h":438},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00045.png",
+	"frame": {"x":2189,"y":445,"w":511,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":14,"w":511,"h":437},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00046.png",
+	"frame": {"x":3085,"y":1772,"w":510,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":15,"w":510,"h":436},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00047.png",
+	"frame": {"x":2061,"y":2210,"w":509,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":16,"w":509,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00048.png",
+	"frame": {"x":2572,"y":2211,"w":509,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":16,"w":509,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00049.png",
+	"frame": {"x":2048,"y":3526,"w":508,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":17,"w":508,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00050.png",
+	"frame": {"x":3085,"y":2210,"w":508,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":18,"w":508,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00051.png",
+	"frame": {"x":2566,"y":3525,"w":508,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":19,"w":508,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00052.png",
+	"frame": {"x":3083,"y":2647,"w":508,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":19,"w":508,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00053.png",
+	"frame": {"x":3082,"y":3084,"w":508,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":20,"w":508,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00054.png",
+	"frame": {"x":3076,"y":3521,"w":508,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":20,"w":508,"h":435},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00055.png",
+	"frame": {"x":2566,"y":3087,"w":508,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":20,"w":508,"h":436},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00056.png",
+	"frame": {"x":1549,"y":2227,"w":509,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":20,"w":509,"h":438},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00057.png",
+	"frame": {"x":2060,"y":2647,"w":509,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":20,"w":509,"h":437},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00058.png",
+	"frame": {"x":2571,"y":2648,"w":509,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":20,"w":509,"h":437},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00059.png",
+	"frame": {"x":1544,"y":2667,"w":509,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":20,"w":509,"h":437},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00060.png",
+	"frame": {"x":1025,"y":3562,"w":510,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":20,"w":510,"h":437},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00061.png",
+	"frame": {"x":2055,"y":3086,"w":509,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":509,"h":438},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00062.png",
+	"frame": {"x":1537,"y":3106,"w":509,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":509,"h":439},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00063.png",
+	"frame": {"x":1537,"y":3547,"w":509,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":18,"w":509,"h":439},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00064.png",
+	"frame": {"x":2061,"y":1769,"w":510,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":17,"w":510,"h":439},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00065.png",
+	"frame": {"x":2573,"y":1770,"w":510,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":17,"w":510,"h":439},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00066.png",
+	"frame": {"x":1089,"y":900,"w":510,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":510,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00067.png",
+	"frame": {"x":1549,"y":1785,"w":510,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":15,"w":510,"h":440},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00068.png",
+	"frame": {"x":1025,"y":2676,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":14,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00069.png",
+	"frame": {"x":1025,"y":3119,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":13,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+},
+{
+	"filename": "The_Bonus_Game/The_Bonus_Game_00070.png",
+	"frame": {"x":1543,"y":1342,"w":510,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":13,"w":510,"h":441},
+	"sourceSize": {"w":595,"h":478}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "theBonusGame-0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "0.58",
+	"smartupdate": "$TexturePacker:SmartUpdate:9f62a5b5fd0c3689f65fc60b8a5354b1:fdbc62b9610e0f7f8ea3f13d0ef2aba2:292731c048a632efc54164d592c6705d$"
+}
+}
